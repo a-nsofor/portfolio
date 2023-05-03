@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Alex Nsofor</title>
-	<atom:link href="https://https://alexnsofor.site/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://alexnsofor.site/</link>
+	<atom:link href="https://https://a-nsofor.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://a-nsofor.github.io/portfolio/</link>
 	<description>Alles over Alex Nsofor</description>
 	<lastBuildDate>Tue, 25 Apr 2023 14:47:13 +0000</lastBuildDate>
 	<language>nl</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>https://https://alexnsofor.site/wp-content/uploads/2021/10/logo-alex-1-150x150.png</url>
+	<url>https://https://a-nsofor.github.io/portfolio/wp-content/uploads/2021/10/logo-alex-1-150x150.png</url>
 	<title>Alex Nsofor</title>
-	<link>https://https://alexnsofor.site/</link>
+	<link>https://https://a-nsofor.github.io/portfolio/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
